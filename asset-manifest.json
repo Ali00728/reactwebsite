@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/reactwebsite/static/css/main.ef07e957.chunk.css",
+    "main.js": "/reactwebsite/static/js/main.8c1b24d2.chunk.js",
+    "main.js.map": "/reactwebsite/static/js/main.8c1b24d2.chunk.js.map",
+    "runtime-main.js": "/reactwebsite/static/js/runtime-main.8cffd868.js",
+    "runtime-main.js.map": "/reactwebsite/static/js/runtime-main.8cffd868.js.map",
+    "static/css/2.54370922.chunk.css": "/reactwebsite/static/css/2.54370922.chunk.css",
+    "static/js/2.6d7ffdc6.chunk.js": "/reactwebsite/static/js/2.6d7ffdc6.chunk.js",
+    "static/js/2.6d7ffdc6.chunk.js.map": "/reactwebsite/static/js/2.6d7ffdc6.chunk.js.map",
+    "static/js/3.0e0e1d2f.chunk.js": "/reactwebsite/static/js/3.0e0e1d2f.chunk.js",
+    "static/js/3.0e0e1d2f.chunk.js.map": "/reactwebsite/static/js/3.0e0e1d2f.chunk.js.map",
+    "index.html": "/reactwebsite/index.html",
+    "static/css/2.54370922.chunk.css.map": "/reactwebsite/static/css/2.54370922.chunk.css.map",
+    "static/css/main.ef07e957.chunk.css.map": "/reactwebsite/static/css/main.ef07e957.chunk.css.map",
+    "static/js/2.6d7ffdc6.chunk.js.LICENSE.txt": "/reactwebsite/static/js/2.6d7ffdc6.chunk.js.LICENSE.txt",
+    "static/media/3grid1.37538b37.png": "/reactwebsite/static/media/3grid1.37538b37.png",
+    "static/media/3grid2.c2e97899.png": "/reactwebsite/static/media/3grid2.c2e97899.png",
+    "static/media/3grid3.f9e2d29a.png": "/reactwebsite/static/media/3grid3.f9e2d29a.png",
+    "static/media/bsgrid1.f75e9cca.png": "/reactwebsite/static/media/bsgrid1.f75e9cca.png",
+    "static/media/bsgrid2.80f550b9.png": "/reactwebsite/static/media/bsgrid2.80f550b9.png",
+    "static/media/bsgrid3.bc7ddfdf.png": "/reactwebsite/static/media/bsgrid3.bc7ddfdf.png",
+    "static/media/style.scss": "/reactwebsite/static/media/subsbg.0c66c498.png",
+    "static/media/grid4.a56d3b93.png": "/reactwebsite/static/media/grid4.a56d3b93.png",
+    "static/media/grid5.c0b5ce2d.png": "/reactwebsite/static/media/grid5.c0b5ce2d.png",
+    "static/media/grid6.053d32c9.png": "/reactwebsite/static/media/grid6.053d32c9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8cffd868.js",
+    "static/css/2.54370922.chunk.css",
+    "static/js/2.6d7ffdc6.chunk.js",
+    "static/css/main.ef07e957.chunk.css",
+    "static/js/main.8c1b24d2.chunk.js"
+  ]
+}
