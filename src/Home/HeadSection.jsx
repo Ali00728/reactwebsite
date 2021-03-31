@@ -1,5 +1,6 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
+import himg from '../images/leftheader.png'
 const HeadSection = () => {
     return (
         <>
@@ -16,7 +17,7 @@ const HeadSection = () => {
         </div>
         </div>
              <div className="leftimg">
-                 <img src="images/leftheader.png" className="img-fluid" alt=""/>
+                 <img src={himg} className="img-fluid" alt=""/>
              </div>
         </section>
        
