@@ -2,6 +2,7 @@ import React from 'react'
 import { GoLocation } from "react-icons/go"
 import { HiOutlineMail } from "react-icons/hi"
 import { AiOutlinePhone } from "react-icons/ai"
+import logo from '../images/logo.png'
 
 const Footer = () => {
     return (
@@ -9,7 +10,7 @@ const Footer = () => {
             <div className="footer">
                 <div className="innerbg">
                     <div className="imgdivf">
-                        <img src="images/logo.png" alt="" />
+                        <img src={logo} alt="" />
                     </div>
                     <div className="row m-0">
                         <div className="col-10 mx-auto">
