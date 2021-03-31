@@ -18,12 +18,12 @@ const Menu = () => {
       <div className="container-fluid">
         <div className="row">
           <div className="col-10 mx-auto">
-            <Navbar className={men ? "p-0 fixed-top col-lg-10 mx-auto menu active" : "p-0 fixed-top col-lg-10 mx-auto menu"} expand="lg">
+            <Navbar className={men ? "p-0 fixed-top col-lg-10 mx-auto menu active1" : "p-0 fixed-top col-lg-10 mx-auto menu"} expand="lg">
               <Navbar.Brand  ><img src="images/logo.png" className="img-fluid " width="130" alt="" /></Navbar.Brand>
               <Navbar.Toggle aria-controls="basic-navbar-nav" />
               <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="mx-auto">
-                  <NavLink exact to="/" activeClassName="menuactive" className="nav-link">Home</NavLink>
+                  <NavLink exact to="/" activeClassName="menuactive" className="nav-link ">Home</NavLink>
                   <NavLink to="/services"  activeClassName="menuactive" className="nav-link">Services</NavLink>
                   <NavLink to="/marketing" activeClassName="menuactive" className="nav-link">Marketing</NavLink>
                   <NavLink to="/about" activeClassName="menuactive" className="nav-link">About Us</NavLink>
