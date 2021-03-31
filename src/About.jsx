@@ -3,6 +3,8 @@ import HeaderCmpnt from './HeaderCmpnt'
 import HeadingC from './Home/HeadingC';
 import GridCard from './Home/GridCard'
 import Footer from './Home/Footer'
+import gridimg1 from './images/1grid1.png'
+import gridimg2 from './images/1grid2.png'
 const About = () => {
     return (
         <>
@@ -23,14 +25,14 @@ const About = () => {
                         <GridCard
                             btntext="Ignite Your Journey"
                             classn="gridtext"
-                            imgsrc="images/grid1.png"
+                            imgsrc={gridimg1}
                         />
                     </div>
                     <div className="col-lg-6 ">
                         <GridCard
                             btntext="Fix These Problems"
                             classn="gridtext change"
-                            imgsrc="images/grid2.png"
+                            imgsrc={gridimg2}
                         />
                     </div>
 
