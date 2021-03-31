@@ -149,8 +149,7 @@ body{
     }
     .leftimg img{
          position: absolute;
-         max-height: 100vh;
-         
+         height: 100vh;
          max-width: 100vh;
          right: 0;
          top: 0;
@@ -918,6 +917,12 @@ body{
             font-size: 20px;
             text-transform: uppercase;
         }
+    }
+}
+@media screen and (max-width:500px){
+    .contactform{
+        padding:20px;
+        margin: 20px auto;
     }
 }
 

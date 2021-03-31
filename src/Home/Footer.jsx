@@ -39,7 +39,7 @@ const Footer = () => {
             <div className="lastfooter">
                 <h6>© 2020 scintillareagency.com</h6>
                 <div className="fimg">
-                <img src="images/logo.png" alt=""/>
+                <img src={logo} alt=""/>
                 </div>
             </div>
         </>
